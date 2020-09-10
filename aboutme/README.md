@@ -1,6 +1,8 @@
 # About Me
 [Boostcourse] Web Programming - Project A
 
+## ScreenShots
+
 ### 1. Index
 ![1](https://user-images.githubusercontent.com/43704446/92730134-4b375d00-f3ae-11ea-86e7-7818905b9524.jpg)
 
@@ -12,3 +14,4 @@
 
 ### 4. today
 ![4](https://user-images.githubusercontent.com/43704446/92730606-f9db9d80-f3ae-11ea-8367-ef8182bbf417.jpg)
+-------------------------
